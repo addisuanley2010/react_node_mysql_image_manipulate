@@ -1,0 +1,22 @@
+.form-div{
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+}
+.app{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.images{
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.preview{
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
